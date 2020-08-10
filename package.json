@@ -1,0 +1,20 @@
+{
+  "name": "compatibility-predictor",
+  "version": "1.0.0",
+  "description": "You may use this to score applicants for a team! 1) Clone repo 2) run node app.js in terminal 3) ??? 4) Profit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brianwkhuffman/compatibility-predictor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brianwkhuffman/compatibility-predictor/issues"
+  },
+  "homepage": "https://github.com/Brianwkhuffman/compatibility-predictor#readme"
+}

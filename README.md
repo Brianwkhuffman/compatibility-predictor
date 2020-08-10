@@ -1,8 +1,10 @@
 # Compatibility-Predictor
 
-You may use this to score applicants for a team!
-1) Clone repo
-2) npm install dependencies
-3) run node
-4) ???
-5) Profit
+
+1) Make sure node environment is installed.
+2) Clone this repo in your terminal.
+3) cd into repo.
+4) Run "node app.js" in terminal.
+5) Score applicants appear in JSON.
+
+The compatibility score uses the sample JSON data given.
